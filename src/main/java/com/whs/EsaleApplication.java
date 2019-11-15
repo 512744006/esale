@@ -11,7 +11,7 @@ public class EsaleApplication {
 	@RequestMapping("/")
 	String index() {
 		System.out.println("redirect to home page000!");
-		return "Hello Spring Boot";
+		return "Hello Spring Boot"; 
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(EsaleApplication.class, args);
