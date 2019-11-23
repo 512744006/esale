@@ -1,0 +1,30 @@
+.shopcart{
+
+}
+.shopcart .group{
+
+}
+.shopcart .group-tit{
+	padding-left: 0.70rem;
+	background: #fff url(../img/img48.png) .25rem center/0.34rem no-repeat;
+	font-family: 'PingFangSC-Regular',"Microsoft Yahei","Helvetica Neue";
+	font-size: 0.24rem;
+	color: #333333;
+	border-bottom: 1px solid #ececec;
+	line-height: .76rem;
+	height: .76rem
+}
+.shopcart .group-tit.on{
+	background: #fff url(../img/img48.1.png) .25rem center/0.34rem no-repeat;
+}
+
+.group-only-tit{
+	padding: 0 .25rem;
+	font-family: 'PingFangSC-Regular',"Microsoft Yahei","Helvetica Neue";
+	font-size: 0.28rem;
+    color: #333;
+	line-height: .76rem;
+	height: .76rem;
+	margin-bottom: .2rem;
+	background: #fff;
+}

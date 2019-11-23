@@ -1,0 +1,28 @@
+
+
+/*# sourceMappingURL=style.css.map */
+.ind-top{
+	padding: 0 0.3rem;
+}
+.ind-top .title{
+	width: 55%;
+	box-sizing:box-sizing;
+	padding-right: 0.35rem;
+	height: 0.5rem;
+	font-size: 0.5rem;
+	line-height: 1;
+	color: #000;
+	float: left;
+}
+.ind-top .members{
+	height: 0.5rem;
+	width: 0.5rem;
+	float: right;
+	background: url(../img/img2.png) center/0.42rem no-repeat;
+}
+.ind-top .problem{
+	float: right;
+	height: 0.5rem;
+	width: 0.5rem; 
+	background: url(../img/img1.png) center/0.42rem no-repeat;
+}
